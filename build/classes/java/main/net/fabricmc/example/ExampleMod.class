@@ -1,0 +1,10 @@
+Êþº¾   = +
+      java/lang/Object <init> ()V	  	 
+   net/fabricmc/example/ExampleMod LOGGER Lorg/slf4j/Logger;  $Hello from a Forgero extension pack!      org/slf4j/Logger info (Ljava/lang/String;)V  modid
+      org/slf4j/LoggerFactory 	getLogger &(Ljava/lang/String;)Lorg/slf4j/Logger;  net/fabricmc/api/ModInitializer MOD_ID Ljava/lang/String; 
+ConstantValue Code LineNumberTable LocalVariableTable this !Lnet/fabricmc/example/ExampleMod; onInitialize <clinit> 
+SourceFile ExampleMod.java !           !               "   /     *· ±    #        $        % &    '   "   9     ² 
+¹  ±    #   
+     
+  $        % &    (   "   !      	¸ ³ ±    #       
+  )    *
